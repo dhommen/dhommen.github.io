@@ -25,9 +25,29 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Release job
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: npm ci
+      - name: Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx semantic-release
+
   # Build job
   build:
     runs-on: ubuntu-latest
+    needs: release
     steps:
       - name: Checkout
         uses: actions/checkout@v3
