@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/dhommen/dhommen.github.io/compare/v1.0.0...v1.0.1) (2023-11-13)
+
+
+### Bug Fixes
+
+* extend GITHUB_TOKEN permissions for release job ([5cae6a0](https://github.com/dhommen/dhommen.github.io/commit/5cae6a06600398dc0ab3ec0944a28bf292a48a1c))
+* readd permissions to GITHUB_TOKEN ([6f9ff28](https://github.com/dhommen/dhommen.github.io/commit/6f9ff2814c0955270da77b327931ff3299a55196))
+
 # 1.0.0 (2023-11-13)
 
 
