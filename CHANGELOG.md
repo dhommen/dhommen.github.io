@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/dhommen/dhommen.github.io/compare/v1.0.1...v1.1.0) (2023-12-23)
+
+
+### Features
+
+* add about and skills section ([4d22ff9](https://github.com/dhommen/dhommen.github.io/commit/4d22ff9455c9b70ee0699fd1f2f867b916d0308a))
+
 ## [1.0.1](https://github.com/dhommen/dhommen.github.io/compare/v1.0.0...v1.0.1) (2023-11-13)
 
 
