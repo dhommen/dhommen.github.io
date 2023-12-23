@@ -1,4 +1,7 @@
 import Image from 'next/image'
+import About from './components/about'
+import Imprint from './components/imprint'
+import Skills from './components/skills'
 
 export default function Home() {
   return (
@@ -13,6 +16,9 @@ export default function Home() {
           priority
         />
       </div>
+      <About />
+      <Skills />
+      <Imprint />
     </main>
   )
 }
