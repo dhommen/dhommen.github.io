@@ -3,7 +3,7 @@ export default async function About() {
     <section className="text-center mt-8">
     <h2 className="text-2xl font-bold mb-4">About Me</h2>
     <p className="max-w-prose mx-auto">
-      Hello, I'm Daniel Hommen, a dedicated and innovative Dataspace Architect with a passion for shaping the future of European data spaces. My journey in this field is marked by a deep commitment to excellence and a forward-thinking approach.
+      Hello, I am Daniel Hommen, a dedicated and innovative Dataspace Architect with a passion for shaping the future of European data spaces. My journey in this field is marked by a deep commitment to excellence and a forward-thinking approach.
     </p>
     <br />
     <p className="max-w-prose mx-auto">

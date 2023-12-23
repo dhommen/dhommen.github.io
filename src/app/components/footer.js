@@ -15,7 +15,7 @@ export default async function Footer() {
             rel="noopener noreferrer"
           >
             <span className="hover:underline focus-visible:underline">
-              Version: 1.1.1
+              Version: 1.1.2
             </span>
           </a>
         </div>
