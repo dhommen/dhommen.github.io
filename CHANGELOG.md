@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/dhommen/dhommen.github.io/compare/v1.1.1...v1.1.2) (2023-12-23)
+
+
+### Bug Fixes
+
+* special char in about section ([a05b58c](https://github.com/dhommen/dhommen.github.io/commit/a05b58c12f3778d26856f94b8d989a78eef5ff2e))
+
 ## [1.1.1](https://github.com/dhommen/dhommen.github.io/compare/v1.1.0...v1.1.1) (2023-12-23)
 
 
