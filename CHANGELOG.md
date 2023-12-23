@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/dhommen/dhommen.github.io/compare/v1.1.0...v1.1.1) (2023-12-23)
+
+
+### Bug Fixes
+
+* optimise images with next/image ([f7c2aa9](https://github.com/dhommen/dhommen.github.io/commit/f7c2aa9d2ddfabb368b5e8859bace9f3285d4ff1))
+
 # [1.1.0](https://github.com/dhommen/dhommen.github.io/compare/v1.0.1...v1.1.0) (2023-12-23)
 
 
