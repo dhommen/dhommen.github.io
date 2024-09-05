@@ -5,8 +5,8 @@ export default async function Imprint() {
       <h2 className="text-l font-bold mb-4">Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
       <p className="max-w-prose mx-auto">
         Daniel Hommen |
-        Bergheimer Str. 20 |
-        53225 Bonn
+        Postfach 300610 |
+        53186 Bonn
       </p>
       <h2 className="text-l font-bold mb-4">Contact</h2>
       <p className="max-w-prose mx-auto">Email: dhommen@thedataspaceguy.eu</p>
