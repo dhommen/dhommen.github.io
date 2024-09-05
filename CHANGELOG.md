@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/dhommen/dhommen.github.io/compare/v1.1.2...v1.1.3) (2024-09-05)
+
+
+### Bug Fixes
+
+* update imprint with PO Box number ([202d138](https://github.com/dhommen/dhommen.github.io/commit/202d138039f4748cbeeb0f96cfb0b1790238a5cd))
+
 ## [1.1.2](https://github.com/dhommen/dhommen.github.io/compare/v1.1.1...v1.1.2) (2023-12-23)
 
 
